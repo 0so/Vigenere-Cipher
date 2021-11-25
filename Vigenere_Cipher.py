@@ -1,4 +1,3 @@
-#Gelber Castillo Lab 2 - Vigenere Cipher
 import random
 import math
 
